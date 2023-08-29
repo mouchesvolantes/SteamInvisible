@@ -19,7 +19,7 @@ namespace SteamInvisible
 
         static void Main(string[] Arguments)
         {
-            Console.WriteLine("Stea m Invisible - Build: {0}", DateTime.Today);
+            Console.WriteLine("Steam Invisible - Build: {0}", DateTime.Today);
 
             Console.WriteLine();
 
